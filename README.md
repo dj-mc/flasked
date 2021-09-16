@@ -4,7 +4,8 @@ Based on Flask 2.0 official docs.
 
 ## How to build
 
-I use pipx to load a pipenv shell and a Pipfile to automatically generate a venv.
+You can use pipx to load a pipenv shell and the provided Pipfile to automatically generate a venv.  
+I also used pipenv to generate a pinned requirements.txt file, if that helps.
 
 ## How to run
 

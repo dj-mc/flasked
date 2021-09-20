@@ -18,6 +18,8 @@ or
 
 ## .env
 
+`.env.sh` generates this `.env` file:
+
 ```dotenv
 FLASK_APP=.
 FLASK_ENV=development

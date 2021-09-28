@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # .env defaults:
 #   FLASK_APP=.

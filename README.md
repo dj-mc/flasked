@@ -1,6 +1,6 @@
 # flaskr
 
-Based on Flask 2.0 official docs.
+Based on Flask 2.0 official docs, and more.
 
 ## How to build
 

@@ -1,6 +1,7 @@
-# flaskr
+# flasked
 
-Based on Flask 2.0 official docs, and more.
+Based on Flask 2.0+ official docs, and more.  
+Additional resources will be referenced here as I go.
 
 ## How to build
 
